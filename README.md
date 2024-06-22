@@ -1,4 +1,4 @@
-# QUIZY2ANKY
+# QUIZY2ANKI
 
 C'est un outil qui permet de convertir des fiches de Quizypedia.fr en des notes sur Anki. 
 
